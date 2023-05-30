@@ -36,6 +36,9 @@ public class C02SystemOut {
 		System.out.printf("%d.%s : %d\n", 1,"국어",100);
 		
 		//System.out.println()
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
+		System.out.println("HELLO WORLD");
 
 	}
 
